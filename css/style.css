@@ -1,0 +1,21 @@
+body{
+    margin: 0 auto;
+}
+*{
+    box-sizing: border-box;
+}
+.container{
+    margin: 0 auto;
+}
+.buttons{
+    text-align: center;
+}
+.btn{
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+}
